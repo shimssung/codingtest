@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\00.fullstack\2.java\codingtest\.metadata\.plugins\org.eclipse.jdt.core
+175229977.index
+1865797976.index
+3213397019.index
+3364863117.index
